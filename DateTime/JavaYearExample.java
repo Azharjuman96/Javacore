@@ -1,5 +1,4 @@
 package javadatetime;
-import java.time.LocaDate;
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.Year;
